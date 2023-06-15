@@ -6,7 +6,7 @@ GuhDify Music Player is a vibrant and aesthetically pleasing music player, devel
 
 With GuhDify, you can search for your favorite songs,control the music player with voice commands and of course, play your favourite songs!
 
-##Video Demo
+## Video Demo
 [Click here!](https://drive.google.com/file/d/1WAH8hRPubWbPbAkhpY9w5enL1821BpyA/view?usp=sharing)
 
 
