@@ -9,6 +9,8 @@ With GuhDify, you can search for your favorite songs,control the music player wi
 ## Video Demo
 [Click here!](https://drive.google.com/file/d/1WAH8hRPubWbPbAkhpY9w5enL1821BpyA/view?usp=sharing)
 
+#Project Report
+[Click here!](https://github.com/GuhD01/GuhDify/blob/main/2602119165-GdeNgurahRandy-OOPReport.pdf)
 
 ## Table of Contents
 
